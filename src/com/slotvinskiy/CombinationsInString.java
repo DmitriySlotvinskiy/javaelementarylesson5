@@ -1,5 +1,8 @@
 package com.slotvinskiy;
 
+//4*. Написать рекурсивный(!!!) метод который выводит все перестановки строки.
+//Например для строки abc: abc, acb, bac, bca, cab, cba
+
 public class CombinationsInString {
 
     public static void main(String[] args) {
